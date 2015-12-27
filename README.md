@@ -5,4 +5,4 @@ An app that allows users to seach for a topic in International Affairs and find 
 
 ## Clone the repository
 
-```https://github.com/dberger1989/Important_Political_Entities_Finder.git```
+```$ git clone https://github.com/dberger1989/Important_Political_Entities_Finder.git```

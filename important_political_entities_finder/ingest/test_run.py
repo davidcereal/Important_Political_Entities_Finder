@@ -110,7 +110,6 @@ class FA_scrape(object):
         ## Click to login
         login = driver.find_element_by_xpath('//*[@id="content"]/article/div[3]/div[2]/div[1]/div/div[1]/div/a[1]')
         login.click()
-
         ## Locate email and password fields
         email_address_username = driver.find_element_by_xpath('//*[@id="edit-name"]')
         password = driver.find_element_by_xpath('//*[@id="edit-pass"]')
@@ -237,11 +236,8 @@ class FA_scrape(object):
             time.sleep(10)
             recursive_click(path_to_element)
 
+    # function to get rid of u2018|\u2019 and replace with quoteation mark
     def remove_unwanted_unicode_characters(self, text_string):
-        '''
-        Function to get rid of unwanted unicode.
-
-        '''
         new_text_string = re.sub(u"(\u2018|\u2019)", "'", text_string)
         new_text_string = re.sub(u"(\u2014)", "--", new_text_string)
         new_text_string = re.sub(u"(\u201c|\u201d)", '"' , new_text_string)
@@ -264,7 +260,7 @@ class FA_scrape(object):
 
     def main(self):
 
-        print "scraping article urls..."
+        print "Scraping article urls..."
         ## Get the html with the links to the the last n articles from
         ## the Foreign Affairs website
         url_archive_html_soup = self.get_article_links(self.n_articles_desired, self.driver)
@@ -276,10 +272,9 @@ class FA_scrape(object):
         ## Iterate throgh concatenated urls and get article data from the page
         articles_data_list = self.get_article_data(article_links, self.driver)
 
-        print "pickling article data..."
+        print "pickling article data"
         with open('ingest/data_store/articles_data_list.pkl', 'w') as picklefile:
             pickle.dump(articles_data_list, picklefile)
-        print "scraping complete"
 
 
 

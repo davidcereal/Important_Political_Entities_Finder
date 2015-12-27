@@ -1,0 +1,279 @@
+(lp0
+(dp1
+S'date'
+p2
+cdatetime
+datetime
+p3
+(S'\x07\xdf\x0c\x18\x00\x00\x00\x00\x00\x00'
+p4
+tp5
+Rp6
+sS'article'
+p7
+S'For the first time in six years, the North Atlantic Treaty Organization announced that it would expand its membership, inviting Montenegro to join the alliance. Only 16 years ago, NATO was bombing the small western Balkan nation as part of its intervention in Kosovo.With a standing military of only 2,000, Montenegro\'s membership will have little impact on the alliance\'s military strength. But the move has profound political consequences. It illustrates the progress that the western Balkans, and Montenegro in particular, have made since the bloody and traumatizing wars of the 1990s. To receive the invitation, Montenegro had to undertake a series of political, legal, and military reforms under the auspices of NATO\'s Membership Action Plan, a program that offers assistance and support for countries seeking to join the alliance. That a newly independent country could reach these standards in such a short time frame speaks to the enduring and powerful draw of the Euro-Atlantic community. In that sense, this remarkable success story comes at an opportune time--it is a bright spot in Europe\'s otherwise dark political terrain of internal strain, the refugee crisis, and the war in Ukraine.  Hazir Reka / ReutersProtesters flee from tear gas in the center of Kosovo\'s capital Pristina, November 18, 2015. Police and protesters clashed in Kosovo for a second day on Wednesday in a deepening crisis over relations with former ruler Serbia.Montenegro\'s membership also represents a major step toward consolidating political stability and democracy in the western Balkans; the reforms it undertook to reach this point include strengthening its governing structures and democratic institutions, as well as bringing its military up to NATO standards. NATO membership would also turn Montenegro into a regional leader and an example of how a small country, not even a decade old, can make great strides so long as it has enough political ambition. The move could inspire others, such as Macedonia and Bosnia and Herzegovina, to reenergize necessary reforms for eventual membership, a process that has stagnated in both countries. Montenegro\'s invitation would also send a signal to Georgia and Ukraine that NATO is, in fact, honoring its "open door policy," which was questioned in the face of Russia\'s annexation of Crimea.Russia is staunchly opposed to NATO expansion due to its deep-seated and historical fear of being "encircled" by a potential adversary. Within Russia, President Vladimir Putin inflates the threat of NATO as the country\'s top geopolitical foe in order to stoke Cold War-era tensions and consolidate domestic power. This makes curbing NATO expansion a strategic priority for Russia. Unsurprisingly, Russia quickly denounced NATO\'s invitation to Montenegro, which gained independence from Russia\'s natural ally in the region, Serbia, only nine years ago. Russia\'s Foreign Ministry called the decision "an openly confrontational step fraught with additional destabilizing consequences for the system of Euro-Atlantic security" and Dmitry Peskov, President Vladimir Putin\'s spokesman, said that NATO\'s expansion "cannot but result in retaliatory actions ... from the Russian side."Such warnings are likely rhetorical. Montenegro is more geographically insulated from Russia than Georgia or Ukraine. It\'s more likely that Russia will retaliate through political or economic channels instead. Already, pro-Russian groups in Montenegro have taken to the streets to protest against NATO membership and have also called for the resignation of Montenegrin Prime Minister Milo Djukanovic. Russia may stoke further civil unrest in order to make the country appear too unstable to join NATO. That may not be difficult to do. Domestically, Montenegro faces anti-NATO factions including from within both the Orthodox Church and political parties that emphasize ties to Serbia and Russia over NATO.Russia also has substantial economic leverage over the country, particularly in the tourism and real estate industries (an estimated 40 percent of Montenegrin real estate is Russian-owned); thus, Moscow, which placed a food embargo on Montenegro after it sided with the West on Ukraine, could slap on more sanctions in order to further punish the country for its Western-leaning political ambitions.  Marko Djurica / ReutersKosovo Serb boys stand on the street during a protest, October 17, 2011.Domestically, Montenegro\'s public is skeptical that NATO membership will be economically beneficial and is wary of the current government\'s motives, since Djukanovic, the very man who has steered his country toward NATO inclusion, has been charged with financial corruption. An investigation by the BBC in 2012 found that he and his associates were using a partially public-funded bank for their own personal use.When the 28 NATO members vote on Montenegro\'s membership in the coming year, Russia can fund anti-NATO political parties in countries more susceptible to Russian money, such as Hungary, Greece, or the Czech Republic, to vote, "no." In the past, NATO members\' parliaments have always deferred to their government\'s decision on NATO enlargement, but since the decision requires unanimous consensus among all 28 members, Russian influence remains a risk. The most likely scenario, however, is that Russia will look to prevent Serbia from following Montenegro\'s path. In recent years, Russia has worked to consolidate influence in Serbia and Republika Srpska, the ethnically Serb entity in Bosnia and Herzegovina, through economic aid and military cooperation.The EU opened accession talks with Serbia in the wake of the announcement about Montenegro\'s NATO membership. This demonstrated a rare example of coordination between NATO and the EU, two institutions that struggle to work together because of political divisions between two of its members, Turkey and Cyprus. But this move also opens new avenues for Russia to derail progress in the Balkans, either through Serbia\'s EU accession talks or through the fragile Serbia-Kosovo peace deal that the EU brokered in 2013.Crises in the Middle East and Ukraine have pushed the Balkans down on the priority list for many transatlantic leaders. But it is time to pay attention to the region again. Its relative calm and peace should not be taken for granted. Economic distress and the refugee and migrant crisis have stretched the Balkans\' fledgling democracies to their limits and opened new avenues for Russian interference. Bosnia risks backsliding into political turmoil, and Macedonia\'s ambitious political and democratic reforms suffered a monumental setback this summer after a scandal over the government\'s wiretaps of opposition leaders and ethnic violence in the Kumanovo region. Even the watershed Serbia-Kosovo peace deal hangs by a thread today; Kosovo erupted in protests last month after the government made a deal with Serbia to integrate Serb-majority regions in Kosovo--a move supported by Brussels. These are manifestations of deep-seated and unresolved political, ethnic, and economic stresses that are bubbling beneath the surface of ostensible progress toward European integration. That is why Montenegro\'s NATO membership invitation, although a major milestone, does not mean that peace in the region is a foregone conclusion. '
+p8
+sS'description'
+p9
+S"  Why Moscow Doesn't Want Montenegro Joining NATO"
+p10
+sS'title'
+p11
+S"The New Thorn In Russia's Side"
+p12
+sa(dp13
+g2
+g3
+(S'\x07\xdf\x0c\x17\x00\x00\x00\x00\x00\x00'
+p14
+tp15
+Rp16
+sg7
+S'In Turkey, where there has been a rise in Islamic religiosity, President Recep Tayyip Erdogan, founder of the pro-Islamist Development and Justice Party (AKP), is converting some public schools into seminaries called imam-hatips (or traditional training schools for Sunni Muslim clergy) in an effort to raise a generation of "religious youth."Students who perform poorly on entrance exams for secondary school are shunted into imam-hatips where they study the Koran for up to 13 hours a week and take courses on the life of the Prophet Muhammad and Arabic. Erdogan has boasted that during his tenure as president, enrollment in these schools soared from 63,000 to over one million. The number of imam-hatips increased by 73 percent between 2010 and 2014 and 13percent of Turkish students now study at such schools.Outraged, dozens of Turkish parents in Istanbul created an advocacy group called HandsOff My School to fight against Erdogan\'s education policy. In June of 2014, when the government tried to convert the local middle school to an imam-hatip, the group circulated a petition that quickly collected 13,000 signatures from other parents. A young lawyer from the neighborhood, Yasemin Zeytinoglu, even filed an emergency suspension with the Istanbul Administrative Court to halt the conversion.  Government officials eventually dropped the order to convert the school, giving the parents a short-lived victory. But the school stopped taking new students and after the current classes graduate, it will reopen as an extracurricular center. Left with no choice but to enroll their children in a different middle school, some parents told us that they felt the government was punishing them for protesting.In September, at the start of the 2014 school year, the members of Hands Off learned that 40,000 children were registered at imam-hatips without parental permission, including the grandson of Turkey\'s Chief Rabbi, Ishak Haleva. Hands Off, along with the tens of thousands of people from the secular teachers\' union and from religious minority groups, rallied forcefully in response. During one nationwide demonstration in February, the government responded by locking students inside their schools and calling the police to fire water cannons on protestors.In Gongoren, a working class borough of Istanbul where three middle schools were recently converted to imam-hatips, 50 men and women met over the summer with Zeytinoglu. She told her audience, "The decision to change the school wasn\'t legal. You were never asked if you wanted it to change." Zeytinoglu has five cases in front of the court now, each for a different school. She argued that in Gongoren, officials did not adequately consult parents and gave no notice before converting the school. Further, there was insufficient demand for religious education in the neighborhood given that it already had seven other imam-hatips.One parent, Gulay Kacar, a stout woman who wore a paisley headscarf, has a son in the fifth grade at Mehmet Akif Middle School, now an imam-hatip. To avoid religious education, which she said will deprive her son of science classes, she will have to send him to a school in another neighborhood where, "there is so much violence, people are stabbing each other." She told the parents, "They put pressure on us. They force our kids to have the education that they want."Kacar, along with Nurcan Aybalik, whose child was also a student at the now-converted school, set up a signature drive in the Kale Outlet Mall in the city center. Shortly after, five clean-shaven youths approached them and swore at the two women, telling them that they had loosened their headscarves and had made prostitutes of themselves by questioning Islam. "Islam is coming and we will make you observe our laws," they said, according to both Kacar and Aybalik.  Umit Bektas / ReutersStudents of an Imam Hatip high school march during a Republic Day ceremony in Ankara, Turkey, October 29, 2015.Extremist views are on the rise in Turkey. Twenty percent of Turks support responding to an insult against Islam with violence, up almost 8 percent from last year, according to the Turkish polling firm Metropoll. A Pew Research Center poll released last month reported that eight percent of Turkish people have a favorable opinion of ISIS and 19 percent are "undecided.""Because of the mindset of religious education, we are being polarized," said Aybalik. Erdogan and the AKP have fought hard to hold onto their tenuous majority in parliament, and religious values are a cornerstone of their message to their Sunni Muslim base. Meanwhile, political opponents warn that religious educational policies will polarize the citizenry. Minority groups, especially Alevi-Muslims, who follow a blend of Shia and syncretic beliefs and make up as much as 25 percent of the Turkish population, are increasingly alienated.In 2011, three Alevi Turkish parents of secondary school students brought a complaint before the European Court of Human Rights, stating that their children were forced to attend Sunni Islamic classes, in violation of the first protocol of the Convention on Human Rights Protocol: the right to education. In February of this year, the court made a final ruling, determining that Turkey\'s compulsory religious education violates children\'s rights. Turkey\'s own highest court ruled similarly in June, deeming the AKP\'s policies unconstitutional. The government has ignored these rulings. Some fear that the European Union, which recently pledged $3.2 billion in Syrian refugee aid to Turkey--in return for helping staunch the flow of migrants into Europe--may in the future turn a blind eye to such human rights abuses in Turkey.  Murad Sezer / ReutersTurkish girls read books at the library at the Kazim Karabekir Girls\' Imam-Hatip School in Istanbul, February 10, 2010.As for claims that these religious schools breed extremism, Turkey\'s religious leaders have countered that their Sunni education has nothing to do with radical Islam. "Islam is a religion of peace and we teach this," said Huseyin Korkut, the head of Onder, an umbrella organization for imam-hatip alumni. "Among the graduates [of imam-hatips] almost no one joined Al Qaeda or ISIS." Indeed, many graduates become public servants. '
+p17
+sg9
+S'  The Closure of Secular Schools'
+p18
+sg11
+S"Erdogan's Assault on Education"
+p19
+sa(dp20
+g2
+g3
+(S'\x07\xdf\x0c\x15\x00\x00\x00\x00\x00\x00'
+p21
+tp22
+Rp23
+sg7
+S'"France is our oldest ally," U.S. President Barack Obama reminded Americans on November 13, after ISIS terrorists launched coordinated attacks in Paris, killing 130. Indeed, the French sent an ambassador to the breakaway colony back in 1778, and Benjamin Franklin arrived in Paris the next year, establishing the United States\' first foreign mission. Gerard Araud, a career diplomat who began as a Middle East specialist, has served as French ambassador to the United States since September 2014; before that, he led France\'s permanent mission to the UN. Araud spoke with Foreign Affairs deputy managing editor Stuart Reid at the French embassy in Washington, D.C., on December 16, 2015.The attacks on Paris were disturbing not just because of the loss of life but also because they struck a city that symbolizes openness. Have the attackers succeeded in jeopardizing the liberal values that Paris represents?The answer is no. But after such a terrorist attack, you are obliged to take some law-enforcement measures. Any liberal democracy has a delicate balance between civil liberties and law enforcement. After 9/11, you had the Patriot Act. After this attack, we have the state of emergency in France.More serious is that the attackers want to create a rift between French Muslims and other French citizens. The French authorities are very keen on avoiding it, but you saw the result of the recent elections in France, where the far right did very well.It\'s a bit like Trump. Trumpism is a transatlantic phenomenon. The problem of backlash against  Log in or register for free to continue reading.Registered users get access to one free article every month.Log in Register         Or subscribe and save 55%!      Your subscription includes:        Full website and iPad access              Magazine issues      New! Books from the        Foreign Affairs Anthology Series              Subscribe       '
+p24
+sg9
+S'  A Conversation With Ambassador Gerard Araud'
+p25
+sg11
+S"We'll Always Have Paris"
+p26
+sa(dp27
+g2
+g3
+(S'\x07\xdf\x0c\x11\x00\x00\x00\x00\x00\x00'
+p28
+tp29
+Rp30
+sg7
+S'Hunting giraffes with an AK-47 is not an activity that most people associate with the life of a terrorist, but for al Shabab, big game hunting is but one of the many perks of membership. A recent al Shabab video depicted fighters stalking and shooting giraffes, antelope, and buffalo, frolicking in a swimming hole, and sharing large plates of fresh fruit within Somalia\'s lush expanses. Compared to the brutality of recruitment videos from the Islamic State (also known as ISIS), al Shabab is peddling a softer version of jihad.This take on jihadi life is not always standard fare for the Somali terror group. Al Shabab\'s cinematic efforts often feature brutality and violence. This video, however, is part of an attempt to reinvigorate a key element of its rise that saw it become, for a time, one of the world\'s most prominent terrorist organizations. By casting jihad as a life of adventure and excitement, al Shabab is again trying to lure Western recruits. And its chances of success grow daily.Al Shabab has always prized foreign recruits. In 2008, its spokesman Mukhtar Robow extolled foreign fighters as a "precious element" the group needed to attract. Particularly valued were battle-hardened terrorists from other conflict areas, including Afghanistan and Iraq, who brought fighting acumen, technological skills, and leadership experience. At one time, more than half of al Shabab\'s governing council was thought to be non-Somali.Unskilled recruits from the West have been useful as well. Anywhere from 20 to 60 Somali-Americans  Log in or register for free to continue reading.Registered users get access to one free article every month.Log in Register         Or subscribe and save 55%!      Your subscription includes:        Full website and iPad access              Magazine issues      New! Books from the        Foreign Affairs Anthology Series              Subscribe       '
+p31
+sg9
+S'  To Win Westerners, Al Shabab Goes on Safari'
+p32
+sg11
+S'The Softer Side of Jihad'
+p33
+sa(dp34
+g2
+g3
+(S'\x07\xdf\x0c\x11\x00\x00\x00\x00\x00\x00'
+p35
+tp36
+Rp37
+sg7
+S'Syrian President Bashar al-Assad has made it clear that he has no interest in negotiating with rebels, whom he considers "terrorists." His allies, Moscow and Tehran, also continue to rebuff demands for him to step down. So did it matter that, last week, members of the Syrian opposition repeated their calls for Assad\'s removal in a conference in Riyadh? It is hardly consequential in the near term. But the conference\'s goal--to put the Syrian opposition\'s house in order--is a worthy one. In fact, it is critical for international efforts to end the civil war.Riyadh, along with Ankara and Doha, is committed to toppling Assad. Yet what all three capitals have finally realized is that the Syrian leader\'s departure, whether by force or negotiation, cannot be achieved without a more coherent Syrian opposition that can speak with one voice in international fora and effectively join arms on the battlefield. Of course, unifying the huge mess that is the Syrian opposition is easier said than done. And it\'s not like it hasn\'t been tried before. Over the past four years, none of the attempts by various countries to unify the rebels and the politicians has worked. And so, Saudi Arabia will try to succeed where others before it have failed, even though its own record of bringing together rival Palestinian groups over the years has not been stellar.In a sense, Riyadh cannot afford to fail. A more integrated Syrian opposition is at  Log in or register for free to continue reading.Registered users get access to one free article every month.Log in Register         Or subscribe and save 55%!      Your subscription includes:        Full website and iPad access              Magazine issues      New! Books from the        Foreign Affairs Anthology Series              Subscribe       '
+p38
+sg9
+S'  And Whether It Can Succeed'
+p39
+sg11
+S"Saudi Arabia's Plan in Syria"
+p40
+sa(dp41
+g2
+g3
+(S'\x07\xdf\x0c\x11\x00\x00\x00\x00\x00\x00'
+p42
+tp43
+Rp44
+sg7
+S'In recent weeks, several leading Republican presidential candidates have argued in favor of selectively sealing U.S. borders to Syrians and others. That--and the discontinuation of any Syrian refugee resettlement programs--they argue, will keep the United States safe from terrorist attacks. Such fantastical and ill-informed suggestions are counterproductive on their own terms, but they also distract from very real and consequential ways in which refugees and migrants are being used as political and military weapons.PEOPLE PUSHERSAll sides in the Syrian civil war have, to some extent, strategically engineered mass movements of civilians into and away from their areas of territorial control. In some cases, the systemic depopulation and repopulation of territory represent attempts to gain tactical military advantage. For example, in early October Amnesty International reported that the Democratic Union Party (PYD), a Kurdish rebel group in Syria, was demolishing homes and displacing entire villages in order to, as Mao would have put it, "drain the sea [the civilians] in which the fish [the enemy] swims." The PYD is not alone. This kind of engineered migration has long been a tool of warfare, since noncombatants can provide safety, succor, and support and serve as a source of recruits.Conversely, civilians may also be prohibited from fleeing areas controlled by combatants, in order to shield soldiers and their supporters from military attack. Human Rights Watch reported in early November, for instance, that the rebel group Jaysh al-Islam has been keeping civilian hostages in northern Syria in order  Log in or register for free to continue reading.Registered users get access to one free article every month.Log in Register         Or subscribe and save 55%!      Your subscription includes:        Full website and iPad access              Magazine issues      New! Books from the        Foreign Affairs Anthology Series              Subscribe       '
+p45
+sg9
+S'  People as Weapons in Syria and Beyond'
+p46
+sg11
+S'Demographic Bombing'
+p47
+sa(dp48
+g2
+g3
+(S'\x07\xdf\x0c\x11\x00\x00\x00\x00\x00\x00'
+p49
+tp50
+Rp51
+sg7
+S"Across Russia, from St. Petersburg in the north to Volgograd in the south, truckers are on strike. They're angered by a new road tax that they say is rooted in corruption and will bankrupt them. And so, some 200 long-haul drivers have disrupted roads for over two weeks and have vowed to take their motorized protest to Moscow unless the Russian government removes the tax, fires the transport minister, and fines the oligarch Arkady Rotenberg and his son, whose company was selected to collect the new fees.In the region and beyond, similar movements that were catalyzed by grievances about corruption and involved diverse groups of protesters, including young people, professionals, and blue-collar workers, have toppled other regimes, including that of Viktor Yanukovych in next-door Ukraine. In his increasingly authoritarian rule, Russian President Vladimir Putin has often denouncedsuch revolts, presumably fearing the same fate. Now he must be especially worried. Past protests in Russia have typically been confined to Moscow and attracted mostly liberal elites, so dissent from a blue-collar constituency hailing from the heartland can't be good news.Although there's a chance that this nonviolent civil resistance might catalyze broader action, whether it will produce a democratic breakthrough depends on the desire and ability of the truckers--and the others now joining them--to diversify their support base, tap into economic and ethnic grievances nationwide, and organize.  Maxim Shemetov / ReutersA participant wears a T-shirt with an image of Russian President Vladimir Putin during an opposition protest march in Moscow, June 12, 2013.The Russian truckers' resistance reveals growing unhappiness among ordinary Russians. Although the drivers insist that their protests are strictly  Log in or register for free to continue reading.Registered users get access to one free article every month.Log in Register         Or subscribe and save 55%!      Your subscription includes:        Full website and iPad access              Magazine issues      New! Books from the        Foreign Affairs Anthology Series              Subscribe       "
+p52
+sg9
+S'  Are Truckers Ushering in a Russian Spring? '
+p53
+sg11
+S'Keep on Trucking'
+p54
+sa(dp55
+g2
+g3
+(S'\x07\xdf\x0c\x11\x00\x00\x00\x00\x00\x00'
+p56
+tp57
+Rp58
+sg7
+S'In 2010, a disturbing report made its entry into an already upsetting news cycle. Members of a U.S. Army brigade, assembled into a self-proclaimed "kill team," had indiscriminately targeted civilians in southern Afghanistan. As trophies for their deeds, the soldiers collected fingers, leg bones, and skulls from their victims. Photos taken by the soldiers posing next to dead bodies came to light, along with the fact that the main instigator kept tally of each victim by having skulls tattooed on his calf.Such news reports, a sadly recurring feature of contemporary life, trace a predictable arc. The initial horror quickly subsides in the face of official reassurances and the unrelenting tide of other news. Should the public seek to draw lasting political conclusions from such horrors, it will be predictably reminded that there is only one: that an atavistic darkness has lurked in the hearts of man since the emergence of the species.Even a cursory reflection on the available facts, however, shows that such atrocities are not aberrations committed in a political vacuum. Calvin Gibbs, the main instigator of the kill team in Afghanistan, bragged about having done the same things during the occupation of Iraq. But collecting the remains of the enemy was also widely practiced by American soldiers during the Vietnam War. And when Gibbs referred to the victims of his grisly deeds as "dirty savages," he was, consciously or not, tapping into an entrenched history of conquest and occupation.The horrors of the past live in  Log in or register for free to continue reading.Registered users get access to one free article every month.Log in Register         Or subscribe and save 55%!      Your subscription includes:        Full website and iPad access              Magazine issues      New! Books from the        Foreign Affairs Anthology Series              Subscribe       '
+p59
+sg9
+S'  Imperialism, Past and Present'
+p60
+sg11
+S'Empire Strikes Back'
+p61
+sa(dp62
+g2
+g3
+(S'\x07\xdf\x0c\x10\x00\x00\x00\x00\x00\x00'
+p63
+tp64
+Rp65
+sg7
+S'"Britain has got its mojo back," declared British Chancellor of the Exchequer George Osborne in a speech at the Council of Foreign Relations in New York last week. His comments followed a vote in the House of Commons that authorized British airstrikes in Syria. British allies greeted the decision with relief--the vote appeared to reverse what some critics viewed as the United Kingdom\'s inexorable retreat from the world stage.Those critics argued that the United Kingdom had adopted an increasingly parochial attitude toward the rest of the world. They pointed to budget cuts in the military and diplomatic corps, a reluctance to join the campaign against the self-proclaimed Islamic State (also known as ISIS), an approach to China that prioritized narrow economic interest over broader strategic concerns, an inability to formulate a strategy to respond to Russian aggression in Ukraine, and British skepticism toward the European Union, with a referendum on membership of the EU likely to take place in 2016.Over the last couple of months, the British government has certainly taken steps to address some of its foreign policy shortcomings--a process no doubt facilitated by the terrorist attacks in Paris. The vote in the House of Commons was the clearest illustration, as British parliamentarians finally cleared the way for the United Kingdom to join the coalition against ISIS in Syria. The United Kingdom\'s military contribution will only have a marginal impact. To date, British airstrikes have carried out around eight percent of the total carried out against  Log in or register for free to continue reading.Registered users get access to one free article every month.Log in Register         Or subscribe and save 55%!      Your subscription includes:        Full website and iPad access              Magazine issues      New! Books from the        Foreign Affairs Anthology Series              Subscribe       '
+p66
+sg9
+S'  The United Kingdom Sends a Signal in Syria'
+p67
+sg11
+S'Little England No More?'
+p68
+sa(dp69
+g2
+g3
+(S'\x07\xdf\x0c\x0f\x00\x00\x00\x00\x00\x00'
+p70
+tp71
+Rp72
+sg7
+S'As Syrian civilians suffer ceaseless indiscriminate attacks, millions of their compatriots flee their homes, and the self-proclaimed Islamic State (also known as ISIS) extends its killing beyond Syria and Iraq, the only good news coming out of the Middle East\'s most violent conflict is that the contours of a deal to end it have become clearer. After talks in Vienna in late October, the main foreign actors in Syria\'s civil war issued a declaration outlining the principles that could guide some of the conflict\'s combatants toward a political settlement. The Vienna declaration calls for secular governance, the eventual defeat of ISIS "and other terrorist groups," the maintenance of the country\'s prewar borders, and the protection of minority groups and state institutions, among other provisions. Yet it fails to address a key issue: how the warring parties might build the trust needed to achieve such goals. As negotiators prepare for a new round of talks in New York in late December or early January, it is essential that they address trust building head-on, above all by demanding an end to the attacks on civilians that are driving Syrians apart and by sidelining the people who have been responsible for them.BOTTOM LINESBy now, it should be clear that none of the Syrian combatants are capable of prevailing militarily. Even with Russia\'s entry into the war and the backing of Hezbollah and Iranian troops, Syrian President Bashar al-Assad\'s forces have not been able to make significant  Log in or register for free to continue reading.Registered users get access to one free article every month.Log in Register         Or subscribe and save 55%!      Your subscription includes:        Full website and iPad access              Magazine issues      New! Books from the        Foreign Affairs Anthology Series              Subscribe       '
+p73
+sg9
+S'  End Atrocities to Build Trust'
+p74
+sg11
+S'The Right Path to a Syrian Accord'
+p75
+sa(dp76
+g2
+g3
+(S'\x07\xdf\x0c\x0f\x00\x00\x00\x00\x00\x00'
+p77
+tp78
+Rp79
+sg7
+S"This is not a particularly happy time in Algerian politics. In the past two decades, the Algerian public has faced two realities: a civil war that threatened to shatter the state from its core and then relative calm under President Abdelaziz Bouteflika. The president, now in his late 70s, has ruled the nation since 1999. Following the Arab Spring in 2010, Bouteflika promised reforms to the Algerian political system that have yet to fully materialize. Global oil prices have plummeted, and Algeria has had to balance its budget by introducing austerity measures. And now, the burden of unpopular economic policies and Bouteflika's lingering health problems has led many to fear the return of political uncertainty.The next few years may test Algeria's political health, but there are signs that the nation can weather a period of uncertainty. Most telling is that, where decades ago, Algerians demanded democracy, they now hope for continuity. In pursuit of this, the Algerian polity may tolerate pseudo-democratic theatrics--as with Bouteflika's unprecedented re-election to his fourth term--as it spells certainty and stability.THE END OF RENTIER POLITICSAlgeria's current situation thus threatens to erode two central pillars of its normalcy: Bouteflika and oil profits that have subsidized life for ordinary Algerians. The government's recent moves within the economy, presidency, and army can be understood as an attempt to preserve these tenets of the Algerian social contract despite the significant challenges it faces in doing so.First, knowing that Algerian subsidy  Log in or register for free to continue reading.Registered users get access to one free article every month.Log in Register         Or subscribe and save 55%!      Your subscription includes:        Full website and iPad access              Magazine issues      New! Books from the        Foreign Affairs Anthology Series              Subscribe       "
+p80
+sg9
+S'  Preparing for a Post-Bouteflika World'
+p81
+sg11
+S"Algeria's Next Succession"
+p82
+sa(dp83
+g2
+g3
+(S'\x07\xdf\x0c\x0f\x00\x00\x00\x00\x00\x00'
+p84
+tp85
+Rp86
+sg7
+S"By the most recent forecast, the U.S. Federal Reserve is set to raise interet rates on December 16. That it's happening in the midst of a global economic slowdown is bad news for markets and economies around the world. Even China's yuan, which had remained stable alongside the strengthening U.S. dollar until recently, had to decouple from it in August to bolster the country's faltering export industries; it was another decision that shook markets worldwide.Federal Reserve Chair Janet Yellen has been warning of the coming interest rate hike for some time now. She wanted to sound the alarm sooner rather than later because the Fed has injected some $2.5 trillion in excess reserves--17.6 times more than the statutory reserves needed to support the present level of U.S. money supply and lending activity. When a central bank has created such an unprecedented degree of liquidity, particularly with the U.S. economy doing relatively well, inflation could accelerate much sooner than in the past once the private sector is ready to borrow money again. That could force the Fed into an abrupt tightening, which could be very damaging to the market and the economy. The Fed must also avoid creating the impression of being behind the curve on inflation lest it trigger a bond market crash that could send long-term interest rates rocketing.  Kevin Lamarque / ReutersU.S. Federal Reserve Chair Janet Yellen testifies before the Senate Banking Committee on Capitol Hill in Washington, July 15, 2014.In spite of  Log in or register for free to continue reading.Registered users get access to one free article every month.Log in Register         Or subscribe and save 55%!      Your subscription includes:        Full website and iPad access              Magazine issues      New! Books from the        Foreign Affairs Anthology Series              Subscribe       "
+p87
+sg9
+S'  Cleaning Up Excess Reserves Rather Than Raising Rates'
+p88
+sg11
+S'For the Fed, Mop Not Hike'
+p89
+sa(dp90
+g2
+g3
+(S'\x07\xdf\x0c\x0f\x00\x00\x00\x00\x00\x00'
+p91
+tp92
+Rp93
+sg7
+S'By finally inviting Montenegro to join NATO, the treaty organization has taken a significant step toward ending Russian chicanery in this small but significant Balkan country. But it will have to act fast to secure its gains. If NATO fails to close the deal, Moscow will have an opening to further destabilize the region and undermine Western interests in Bosnia-Herzegovina, Kosovo, Macedonia, and Serbia.In principle, there is little reason to fear.Completing the process of membership requires that Montenegro iron out a few technical details regarding its accession and that the legislative branches of NATO members, including the U.S. Senate, approve the formal protocols.But all this takes time, and Montenegro faces elections in October. This creates a perfect opportunity for Russian subversion.The potential for Russian interference was evident in October, when Montenegrin protesters and police clashed during demonstrations against the country\'s President, Milo Djukaonovic. Although officials in Moscow denied Djukanovic\'s allegations that they orchestrated the protests--and clearly many protesters were demonstrating over corruption and the state of the economy--speculation about Moscow\'s role mounted when the archbishop of the staunchly pro-Russia Serbian Orthodox Church publicly lamented Montenegro\'s separation from "Mother Russia." Meanwhile, in neighboring Bosnia, Russia has become openly partisan in favor of the separatist Serb leaders. The Russian ambassador there recently injected himself in a tense controversy over a highly provocative referendum that could put the country\'s stability in jeopardy. The idea that Moscow would show restraint next  Log in or register for free to continue reading.Registered users get access to one free article every month.Log in Register         Or subscribe and save 55%!      Your subscription includes:        Full website and iPad access              Magazine issues      New! Books from the        Foreign Affairs Anthology Series              Subscribe       '
+p94
+sg9
+S'  Why NATO Should Act Fast'
+p95
+sg11
+S"Montenegro's Moment"
+p96
+sa(dp97
+g2
+g3
+(S'\x07\xdf\n\x07\x00\x00\x00\x00\x00\x00'
+p98
+tp99
+Rp100
+sg7
+S'The EU is under siege. The arrival of hundreds of thousands of refugees from Afghanistan, Iraq, and Syria has tested the single-border principle at the core of the union. The ongoing financial crisis in Greece has strained the single currency. The United Kingdom will soon hold a referendum on whether or not to exit the EU. The survival of an EU with a single border, a single currency, and a stable membership appears less likely than ever before.European federalists dismiss these problems as growing pains. The EU is an incredibly ambitious work in progress, they note, one that is rooted in a vision of Europe that challenges deep-seated notions of sovereignty and statehood. Surveying the destruction during World War II, Jean Monnet, considered by many to be a founding father of the EU, wrote, "There will be no peace in Europe if the states are reconstituted on the basis of national sovereignty. . . . The countries of Europe are too small to guarantee their peoples the necessary prosperity and social development. The European states must constitute themselves into a federation." Monnet\'s union would be built through cooperation and common markets and would ultimately resemble a "United States of Europe," a phrase later embraced by Winston Churchill to describe his own vision of Europe\'s best possible future. The question is whether that vision can withstand the blows that have rained down on the EU since the financial crisis began in 2008.When the euro was adopted, in 1999, many voiced concerns that  Log in or register for free to continue reading.Registered users get access to one free article every month.Log in Register         Or subscribe and save 55%!      Your subscription includes:        Full website and iPad access              Magazine issues      New! Books from the        Foreign Affairs Anthology Series              Subscribe       blank'
+p101
+sg9
+S'  How the Continent Lost Its Way'
+p102
+sg11
+S'The European Disunion'
+p103
+sa(dp104
+g2
+g3
+(S'\x07\xdf\x0c\n\x00\x00\x00\x00\x00\x00'
+p105
+tp106
+Rp107
+sg7
+S"At the end of September, Russia began conducting air strikes in Syria, ostensibly to combat terrorist groups. The strikes constitute Russia's biggest intervention in the Middle East in decades. Its unanticipated military foray into Syria has transformed the civil war there into a proxy U.S.-Russian conflict and has raised the stakes in the ongoing standoff between Moscow and Washington. It has also succeeded in diverting attention away from Russia's destabilization of Ukraine, making it impossible for the West to continue to isolate the Kremlin. Russia is now a player in the Syrian crisis, and the United States will have to find a way to deal with it.Once again, Washington has been caught off-guard, just as it was in March 2014, when Russia annexed Crimea and began supporting pro-Russian separatists fighting Ukrainian forces in eastern Ukraine. For all of Russia's domestic problems--a shrinking economy, a declining population, and high rates of capital flight and brain drain--it has projected a surprising amount of power not only in its neighborhood but also beyond. U.S. President Barack Obama may refer to Russia as a regional power, but Russia's military intervention in Syria demonstrates that it once again intends to be accepted as a global actor and play a part in every major international decision. This will be a vexing challenge not only for Obama during his remaining time in office but also for the next occupant of the White House.Why has Washington been so  Log in or register for free to continue reading.Registered users get access to one free article every month.Log in Register         Or subscribe and save 55%!      Your subscription includes:        Full website and iPad access              Magazine issues      New! Books from the        Foreign Affairs Anthology Series              Subscribe       "
+p108
+sg9
+S"  How to Respond to Russia's Intervention"
+p109
+sg11
+S"Putin's Power Play in Syria"
+p110
+sa(dp111
+g2
+g3
+(S'\x07\xdf\x0c\n\x00\x00\x00\x00\x00\x00'
+p112
+tp113
+Rp114
+sg7
+S'In one of the most riveting and heartfelt books to appear in some time, Coates reflects on the state of black America in the form of a letter to his adolescent son. For Coates, the American dream is so grounded in racism that the "people who need to believe they are white" today are almost as deeply involved in the destruction of black bodies and black lives as their forebears were. Coates\' writing is powered by his outrage at the recent string of police shootings of young black men, which have gone largely unpunished, and intensified by his visceral fear for the safety of his own son in a country where such incidents are widespread. The book achieves a level of clarity and eloquence reminiscent of Ralph Ellison\'s classic Invisible Man; it is compelling even when it isn\'t entirely convincing. Coates may be a better polemicist than analyst, but the perspective he brings to American life is one that no responsible citizen or serious scholar can safely ignore. blank'
+p115
+sg9
+S'blank'
+p116
+sg11
+S'Between the World and Me'
+p117
+sa(dp118
+g2
+g3
+(S'\x07\xdd\x0c\x12\x00\x00\x00\x00\x00\x00'
+p119
+tp120
+Rp121
+sg7
+S'In a sense, the debate between Burke and his antagonists--between conservatism and radicalism, broadly defined--has shaped political debate in the Western world since the late eighteenth century. Burke himself has become known as "the father of modern conservatism." But David Bromwich is not fond of that phrase. "No serious historian today would repeat the commonplace that Burke was the father of modern conservatism," writes the esteemed scholar of literature in his magnificent, beautifully written new study of the first half of Burke\'s career, which is the most notable addition to a recent crop of books about Burke. The trouble is not only that the line between Burke and modern conservatism is hardly straight but also that Burke\'s legacy is far too complex to be captured by any such phrase. Anyone hoping to understand Burke is confronted with an array of historians and philosophers of aesthetics, politics, and political theory; social conservatives and free-market liberals; and even closet radicals--all claiming that they hold the key to the "real" Burke. Undaunted, Bromwich sets out to demonstrate "the originality and continuities" of Burke\'s thought. The result is an intellectual biography of the best kind. Bromwich seeks to convey "what it meant to think like Edmund Burke" and to demonstrate the coherence and relevance of Burke\'s moral and political vision. With a remarkable level of detail and sensitivity, Bromwich makes a virtue out of what others lament as problematic: the relationship between Burke\'s political activity and his written works. Bromwich is convinced that people today can still learn from Burke, not as political partisans but as "thoughtful readers." In Bromwich\'s hands, Burke offers better lessons about how to think than about what to think.Read the full review. blank'
+p122
+sg9
+g116
+sg11
+S'The Intellectual Life of Edmund Burke: From the Sublime and Beautiful to American Independence'
+p123
+sa.

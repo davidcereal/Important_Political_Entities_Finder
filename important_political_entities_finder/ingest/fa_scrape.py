@@ -19,9 +19,6 @@ import re
 class FA_scrape(object):
 
     def __init__(self):
-
-        ## Directory to store article data picklefile
-        OUTPUTDIR = 'output'
         
         ## Number of articles to scrape
         self.n_articles_desired = 20
@@ -110,6 +107,7 @@ class FA_scrape(object):
         ## Click to login
         login = driver.find_element_by_xpath('//*[@id="content"]/article/div[3]/div[2]/div[1]/div/div[1]/div/a[1]')
         login.click()
+        time.sleep(5)
 
         ## Locate email and password fields
         email_address_username = driver.find_element_by_xpath('//*[@id="edit-name"]')
@@ -213,7 +211,7 @@ class FA_scrape(object):
 
             ## Make a dictionary out of the article data
             article_data_dic = dic = {'title':title, 'date':date, 
-                                      'description':description, 'article':full_article }
+                                      'description':description, 'text':full_article }
 
             ## Append the dictionary of article data to a list with the other article data
             articles_data_list.append(article_data_dic)
@@ -277,7 +275,7 @@ class FA_scrape(object):
         articles_data_list = self.get_article_data(article_links, self.driver)
 
         print "pickling article data..."
-        with open('ingest/data_store/articles_data_list.pkl', 'w') as picklefile:
+        with open('important_political_entities_finder/ingest/data_store/articles_data_list.pkl', 'w') as picklefile:
             pickle.dump(articles_data_list, picklefile)
         print "scraping complete"
 

@@ -12,6 +12,7 @@ from selenium import webdriver
 from dateutil import parser
 import re
 
+import config
 
 #-------------------------load and scrape archive page------------------------------------#
 
@@ -19,25 +20,36 @@ import re
 class FA_scrape(object):
 
     def __init__(self):
+
+        ## FA login placeholders that must be filled in by users.
+        LOGIN_USERNAME = config.login_username
+        LOGIN_PASSWORD = config.login_password
+
+        self.login_username = LOGIN_USERNAME
+        self.login_password = LOGIN_PASSWORD
+
+        ## Placeholder for number of articles to scrape that must be filled in by users.
+        N_ARTICLES_TO_SCRAPE = config.n_articles_to_scrape
+        self.n_articles_to_scrape = N_ARTICLES_TO_SCRAPE
         
-        ## Number of articles to scrape
-        self.n_articles_desired = 20
-        
-        ## Load chromedriver
-        self.chromedriver = "/Users/David/Downloads/chromedriver"
+        ## Placeholder for path to chromedriver that must be filled in by users
+        PATH_TO_CHROMEDRIVER = config.path_to_chromedriver
+
+        ##Load the chromedriver
+        self.chromedriver = PATH_TO_CHROMEDRIVER
         os.environ["webdriver.chrome.driver"] = self.chromedriver
 
         ## Use driver to load FA archive page
         self.driver = webdriver.Chrome(self.chromedriver)
 
-    def get_article_links(self, n_articles_desired, driver):
+    def get_article_links(self, n_articles_to_scrape, driver):
         '''
         Function to scrape the article htmls from the Foreign Affairs(FA) archive
         search page.'Load More' must be clicked each timeto get an additional 10 
         articles loaded to page. 
         
         Args:
-            n_articles_desired(int): The number of article urls to scrape
+            n_articles_to_scrape(int): The number of article urls to scrape
             driver(selenium webdriver obj): The chromedriver object
         Returns:
             url_archive_html_soup(str): the html of the FA archive page with all the desired urls loaded.
@@ -52,10 +64,10 @@ class FA_scrape(object):
         
         ## Each time 'load more' is clicked, 10 more articles are
         ## listed. Determine how many times to click 'Load More'
-        if n_articles_desired <= 10:
+        if n_articles_to_scrape <= 10:
             loads_needed = 1
         else:
-            loads_needed = n_articles_desired/10
+            loads_needed = n_articles_to_scrape/10
 
         for i in range(loads_needed):
             ## Click the 'Load More' button 
@@ -65,7 +77,7 @@ class FA_scrape(object):
         url_archive_html_soup = BeautifulSoup(driver.page_source, 'html.parser')
         return url_archive_html_soup
 
-    def place_urls_in_list(self, url_archive_html):
+    def place_urls_in_list(self, url_archive_html, n_articles_to_scrape):
         '''
         Function to find all the urls in the scraped archive page and then
         store them in a list. 
@@ -80,11 +92,15 @@ class FA_scrape(object):
         '''
         article_links = []
         article_titles = url_archive_html.find_all(class_='title')
-        for item in article_titles:
+        for item in article_titles[:n_articles_to_scrape]:
             href_string = item.contents[1]
             for href_tag, link_extension in href_string.attrs.items():
                 full_link = "https://www.foreignaffairs.com" + link_extension
                 article_links.append(full_link)
+        print "---links to scrape:----"
+        for link in article_links:
+            print link
+        print "-----------------------"
         return article_links
 
 
@@ -160,7 +176,7 @@ class FA_scrape(object):
             ## Check if login needed
             try:
                 driver.find_element_by_xpath('//*[@id="content"]/article/div[3]/div[2]/div[1]/div/div[1]/div/a[1]')
-                soup = self.login_get_article_text(article_url, 'dberger1989@gmail.com', 'oliver4432', driver)
+                soup = self.login_get_article_text(article_url, self.login_username, self.login_password, driver)
             
             ## If not needed
             except:
@@ -233,7 +249,7 @@ class FA_scrape(object):
             path_to_element.click()
         except:
             time.sleep(10)
-            recursive_click(path_to_element)
+            self.recursive_click(path_to_element)
 
     def remove_unwanted_unicode_characters(self, text_string):
         '''
@@ -265,10 +281,10 @@ class FA_scrape(object):
         print "scraping article urls..."
         ## Get the html with the links to the the last n articles from
         ## the Foreign Affairs website
-        url_archive_html_soup = self.get_article_links(self.n_articles_desired, self.driver)
+        url_archive_html_soup = self.get_article_links(self.n_articles_to_scrape, self.driver)
 
         ## Get article links from url archive html
-        article_links = self.place_urls_in_list(url_archive_html_soup)
+        article_links = self.place_urls_in_list(url_archive_html_soup, self.n_articles_to_scrape)
 
         print "scraping article data..."
         ## Iterate throgh concatenated urls and get article data from the page

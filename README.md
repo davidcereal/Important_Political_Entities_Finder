@@ -64,7 +64,7 @@ $ important_political_entities_finder/visualize/app.py
 
 
 ### Run the full application:
-#####Application can be run separately or all at once from a shell script.
+Application can be run separately or all at once from a shell script.
 
 #### To run separately:
 

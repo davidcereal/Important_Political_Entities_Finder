@@ -23,7 +23,21 @@ You are encouraged to use a python virtual environment using virtualenv and pip.
 
 * beautifulsoup4 - Beautiful Soup sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree.
 * Flask - Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions.
-* 
+* httplib2 - A comprehensive HTTP client library, httplib2 supports many features left out of other HTTP libraries.
+* itsdangerous - Various helpers to pass trusted data to untrusted environments and back
+* Jinja2 - Jinja2 is a full featured template engine for Python. It has full unicode support, an optional integrated sandboxed execution environment, widely used and BSD licensed
+* fuzzywuzzy - Fuzzy string matching in python
+* MarkupSafe - Implements a XML/HTML/XHTML Markup safe string for Python
+* nltk - NLTK is a leading platform for building Python programs to work with human language data
+* numpy - NumPy is the fundamental package for scientific computing with Python
+* python-dateutil - Extensions to the standard Python datetime module
+* requests - An Apache2 Licensed HTTP library, written in Python, for human beings
+* selenium - Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that.
+* six - Python 2 and 3 compatibility utilities
+* Werkzeug - Werkzeug is a WSGI utility library for Python
+* wheel - A built-package format for Python
+* Whoosh - Whoosh is a fast, featureful full-text indexing and searching library implemented in pure Python.
+
 
 ## 3. Specify Foreign Affairs login and password credentials in config.py 
 

@@ -79,7 +79,7 @@ $ python important_political_entities_finder/visualize/app.py
 ```
 
 or:
-### Run the full application:
+### Run the full application
 Application can be run separately or all at once from a shell script.
 
 #### To run each part separately:

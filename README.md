@@ -56,14 +56,15 @@ Since 1 article would not provide a very good corpus for this project, I have sc
 
 ## Run Scraping, Analysis, and Visuzalization
 
-#### To run the app without scraping:
+#### Run the app without scraping new data:
 To run the web-app using the pre-built index and avoid scraping altogether, run:
 ```
 $ important_political_entities_finder/visualize/app.py 
 ```
 
 
-Application can be run separately or all at once from a shell script.
+### Run the full application:
+#####Application can be run separately or all at once from a shell script.
 
 #### To run separately:
 

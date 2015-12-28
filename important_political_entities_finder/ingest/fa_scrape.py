@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import os
 import time
 import pickle
@@ -34,11 +35,8 @@ class FA_scrape(object):
         
         ## Placeholder for path to chromedriver that must be filled in by users
         PATH_TO_CHROMEDRIVER = config.path_to_chromedriver
-
-        ##Load the chromedriver
         self.chromedriver = PATH_TO_CHROMEDRIVER
-        os.environ["webdriver.chrome.driver"] = self.chromedriver
-
+        
         ## Use driver to load FA archive page
         self.driver = webdriver.Chrome(self.chromedriver)
 
@@ -92,11 +90,12 @@ class FA_scrape(object):
         '''
         article_links = []
         article_titles = url_archive_html.find_all(class_='title')
-        for item in article_titles[:n_articles_to_scrape]:
+        for item in article_titles:
             href_string = item.contents[1]
             for href_tag, link_extension in href_string.attrs.items():
                 full_link = "https://www.foreignaffairs.com" + link_extension
                 article_links.append(full_link)
+        article_links = article_links[:n_articles_to_scrape]
         print "---links to scrape:----"
         for link in article_links:
             print link

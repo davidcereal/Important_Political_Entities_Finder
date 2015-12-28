@@ -15,7 +15,7 @@ import re
 
 import config
 
-#-------------------------load and scrape archive page------------------------------------#
+
 
 
 class FA_scrape(object):
@@ -39,7 +39,7 @@ class FA_scrape(object):
         
         ## Use driver to load FA archive page
         self.driver = webdriver.Chrome(self.chromedriver)
-
+    #-------------------------load and scrape archive page------------------------------------#
     def get_article_links(self, n_articles_to_scrape, driver):
         '''
         Function to scrape the article htmls from the Foreign Affairs(FA) archive
@@ -101,7 +101,6 @@ class FA_scrape(object):
             print link
         print "-----------------------"
         return article_links
-
 
     #-------------------------scrape data from article pages------------------------------------#
 
@@ -233,7 +232,7 @@ class FA_scrape(object):
         return articles_data_list
 
 
-    #-------------------------helper functions----------------------------------------#
+    #-------------------------helper functions------------------------------------#
 
     def recursive_click(self, path_to_element):
         '''

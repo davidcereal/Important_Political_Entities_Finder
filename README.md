@@ -34,10 +34,9 @@ Doing so will allow you to scrape as many articles as you please.
 You can specify how many articles to scrape in the config.py file. The default is set to 100. 
 
 #### If you do not have a Foreign Affairs magazine subscription
-If you don't have a subscription, you can still register on the <a href="https://www.foreignaffairs.com" target="_blank">Foreign Affairs website</a> and access 1 full article a month. 
-
-Since 1 article would not provide a very good corpus for this project, I have scraped 100 articles and preprocessed them. This way, you can skip the scraping and processing, and go straight to running the web-app on flask. To do this, skip to 
+If you don't have a subscription, you can still run the web-app. I have scraped 100 articles and preprocessed them. This way, you can skip the scraping and processing, and go straight to running the web-app on flask. To do this, skip to 
 *Run the app without scraping new data*, in instruction #5. 
+
 ## 3. Install google's chromedriver:
 
 Install from the website below using the appropriate link for your system:

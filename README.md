@@ -59,7 +59,7 @@ Since 1 article would not provide a very good corpus for this project, I have sc
 #### Run the app without scraping new data:
 To run the web-app using the pre-built index and avoid scraping altogether, run:
 ```
-$ important_political_entities_finder/visualize/app.py 
+$ python important_political_entities_finder/visualize/app.py 
 ```
 
 

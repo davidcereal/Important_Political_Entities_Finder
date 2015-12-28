@@ -48,7 +48,7 @@ Doing so will allow you to scrape as many articles as you please.
 You can specify how many articles to scrape in the config.py file. The default is set to 100. 
 
 #### If you do not have a Foreign Affairs magazine subscription
-If you don't have a subscription, you can still run the web-app. I have scraped 100 articles and preprocessed them. This way, you can skip the scraping and processing, and go straight to running the web-app on flask. To do this, skip to 
+If you don't have a subscription, you can still run the web-app. I have scraped 100 articles and preprocessed them. This way, you can skip the scraping and processing and go straight to running the web app on flask. To do this, skip to 
 **Run the app without scraping new data**, in instruction #6. 
 
 ## 4. Install google's chromedriver:
@@ -73,7 +73,7 @@ $ python -m nltk.downloader all
 ## 6. Run Scraping, Analysis, and Visuzalization
 
 #### Run the app without scraping new data:
-To run the web-app using the pre-built index and avoid scraping altogether, run:
+To run the web app using the pre-built index and avoid scraping altogether, run:
 ```
 $ python important_political_entities_finder/visualize/app.py 
 ```
@@ -94,7 +94,7 @@ $ python important_political_entities_finder/visualize/app.py
 
 ```$ source bin/important_political_entities_finder.sh```
 
-## 7. Go to web-app!
+## 7. Go to web app!
 
 The Flask app should be visible at the following location: 
 

@@ -3,11 +3,11 @@
 An app that allows users to seach for a topic in International Affairs and find out which political entities are most commonly associated with it. The corpus used is made up of articles scraped from the Foreign Affairs Magazine website. Check out the demo  <a href="http://107.23.92.220:5000" target="_blank">here</a>!
 
 
-## Clone the repository
+## 1. Clone the repository
 
 ```$ git clone https://github.com/dberger1989/Important_Political_Entities_Finder.git```
 
-## 1. Setup
+## 2. Setup
 
 This code is portable across the following OS's: Linux distributions, Mac and Windows OS's. Scripts were written using Python 2.7 and have not been tested for portability to Python 3.X.
 
@@ -25,7 +25,7 @@ You are encouraged to use a python virtual environment using virtualenv and pip.
 * Flask - Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions.
 * 
 
-## 2. Specify Foreign Affairs login and password credentials in config.py 
+## 3. Specify Foreign Affairs login and password credentials in config.py 
 
 #### If you have a Foreign Affairs magazine subscription:
 If you would have a subscription to Foreign Affairs magazine, you can put your username and password in the config.py file. 
@@ -35,9 +35,9 @@ You can specify how many articles to scrape in the config.py file. The default i
 
 #### If you do not have a Foreign Affairs magazine subscription
 If you don't have a subscription, you can still run the web-app. I have scraped 100 articles and preprocessed them. This way, you can skip the scraping and processing, and go straight to running the web-app on flask. To do this, skip to 
-**Run the app without scraping new data**, in instruction #5. 
+**Run the app without scraping new data**, in instruction #6. 
 
-## 3. Install google's chromedriver:
+## 4. Install google's chromedriver:
 
 Install from the website below using the appropriate link for your system:
 	
@@ -48,7 +48,7 @@ http://chromedriver.storage.googleapis.com/index.html?path=2.19/
 Specify the path to the downloaded chromedriver in the config.py file.  
 
 
-## 4. Install NLTK dependencies:
+## 5. Install NLTK dependencies:
 
 ```
 $ python -m nltk.downloader all
@@ -56,7 +56,7 @@ $ python -m nltk.downloader all
 
 
 
-## 5. Run Scraping, Analysis, and Visuzalization
+## 6. Run Scraping, Analysis, and Visuzalization
 
 #### Run the app without scraping new data:
 To run the web-app using the pre-built index and avoid scraping altogether, run:
@@ -80,7 +80,7 @@ $ python important_political_entities_finder/visualize/app.py
 
 ```$ source bin/important_political_entities_finder.sh```
 
-## 6. Go to web-app!
+## 7. Go to web-app!
 
 The Flask app should be visible at the following location: 
 

@@ -51,7 +51,7 @@ You can specify how many articles to scrape in the config.py file. The default i
 
 If you don't have a subscription, you can still register on the <a href="https://www.foreignaffairs.com" target="_blank">Foreign Affairs website</a> and access 1 full article a month. 
 
-Since 1 article would not provide a very good corpus for this project, I have scraped 100 articles and placed them in an index folder. This way, you can skip the scraping and processing, and go straight to running the web-app on flask. See the instructions below.
+Since 1 article would not provide a very good corpus for this project, I have scraped 100 articles and preprocessed them. This way, you can skip the scraping and processing, and go straight to running the web-app on flask. See the instructions below.
 
 
 ## Run Scraping, Analysis, and Visuzalization

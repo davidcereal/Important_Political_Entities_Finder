@@ -1,0 +1,8 @@
+beautifulsoup4==4.3.2
+Flask==0.10.1
+fuzzywuzzy==0.7.0
+nltk==3.1
+requests==2.3.0
+selenium==2.48.0
+Whoosh==2.7.0
+

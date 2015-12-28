@@ -10,7 +10,7 @@ pre-built index comprised of 100 articles I scraped for this demo.
 
 
 3. Specify the location of the chromdriver. See the readme for further instructions on this. 
-Example: /Users/David/Downloads/chromedriver
+Example: "/Users/David/Downloads/chromedriver"
 
 """
 

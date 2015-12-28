@@ -15,11 +15,11 @@ Example: /Users/David/Downloads/chromedriver
 """
 
 ## Specify your username and password:
-login_username = "dberger1989@gmail.com"
-login_password = "oliver4432"
+login_username = ""
+login_password = ""
 
 ## If you have a subcription, specify the number of articles to scrape:
 n_articles_to_scrape = 100
 
 ## Specify path to the chromedriver
-path_to_chromedriver = "/Users/David/Downloads/chromedriver"
+path_to_chromedriver = ""

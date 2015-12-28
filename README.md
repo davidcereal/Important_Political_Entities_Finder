@@ -77,3 +77,9 @@ $ python important_political_entities_finder/visualize/app.py
 #### To run via shell script:
 
 ```$ source bin/important_political_entities_finder.sh```
+
+## Go to web-app!
+
+The Flask app should be visible at the following location: 
+
+``` http://127.0.0.1:5000/ ```

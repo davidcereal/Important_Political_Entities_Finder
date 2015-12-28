@@ -42,6 +42,7 @@ def score():
     start_date =  data["example"][1]
     stop_date =  data["example"][2]
     parsed_results = si.search_topic(index, search_term, start_date, stop_date)
+    print parsed_results
 
 ## Put the result in a nice dict so we can send it as json
     return_data = {'name': 'flare', "children": [{'name': 'cluster', 'children': parsed_results}]}

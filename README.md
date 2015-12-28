@@ -65,8 +65,8 @@ Application can be run separately or all at once from a shell script.
 #### To run separately:
 
 ```
-$ python -m important_political_entities_finder.ingest.yelp
-$ python -m important_political_entities_finder.wrangle.cluster_data
+$ python -m important_political_entities_finder.ingest.fa_scrape
+$ python -m important_political_entities_finder.wrangle.parse_and_make_index
 $ python important_political_entities_finder/visualize/app.py 
 ```
 

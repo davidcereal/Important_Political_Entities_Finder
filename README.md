@@ -54,7 +54,7 @@ If you don't have a subscription, you can still register on the <a href="https:/
 Since 1 article would not provide a very good corpus for this project, I have scraped 100 articles and preprocessed them. This way, you can skip the scraping and processing, and go straight to running the web-app on flask. See the instructions below.
 
 
-## Run Scraping, Analysis, and Visuzalization
+## 5. Run Scraping, Analysis, and Visuzalization
 
 #### Run the app without scraping new data:
 To run the web-app using the pre-built index and avoid scraping altogether, run:
@@ -78,7 +78,7 @@ $ python important_political_entities_finder/visualize/app.py
 
 ```$ source bin/important_political_entities_finder.sh```
 
-## Go to web-app!
+## 6. Go to web-app!
 
 The Flask app should be visible at the following location: 
 

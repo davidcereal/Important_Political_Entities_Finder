@@ -27,13 +27,13 @@ You are encouraged to use a python virtual environment using virtualenv and pip.
 
 ## 2. Specify Foreign Affairs login and password credentials in config.py 
 
-#### ** If you have a Foreign Affairs magazine subscription:
+#### If you have a Foreign Affairs magazine subscription:
 If you would have a subscription to Foreign Affairs magazine, you can put your username and password in the config.py file. 
 Doing so will allow you to scrape as many articles as you please. 
 
 You can specify how many articles to scrape in the config.py file. The default is set to 100. 
 
-#### ** If you do not have a Foreign Affairs magazine subscription
+#### If you do not have a Foreign Affairs magazine subscription
 If you don't have a subscription, you can still run the web-app. I have scraped 100 articles and preprocessed them. This way, you can skip the scraping and processing, and go straight to running the web-app on flask. To do this, skip to 
 **Run the app without scraping new data**, in instruction #5. 
 

@@ -51,7 +51,7 @@ You can specify how many articles to scrape in the config.py file. The default i
 If you don't have a subscription, you can still run the web-app. I have scraped 100 articles and preprocessed them. This way, you can skip the scraping and processing and go straight to running the web app on flask. To do this, skip to 
 **Run the app without scraping new data**, in instruction #6. 
 
-## 4. Install google's chromedriver:
+## 4. Install google's chromedriver
 
 Install from the website below using the appropriate link for your system:
 	
@@ -62,7 +62,7 @@ http://chromedriver.storage.googleapis.com/index.html?path=2.19/
 Specify the path to the downloaded chromedriver in the config.py file.  
 
 
-## 5. Install NLTK dependencies:
+## 5. Install NLTK dependencies
 
 ```
 $ python -m nltk.downloader all

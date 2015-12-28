@@ -41,7 +41,7 @@ You are encouraged to use a python virtual environment using virtualenv and pip.
 
 ## 3. Specify Foreign Affairs login and password credentials in config.py 
 
-#### If you have a Foreign Affairs magazine subscription:
+#### If you have a Foreign Affairs magazine subscription
 If you would have a subscription to Foreign Affairs magazine, you can put your username and password in the config.py file. 
 Doing so will allow you to scrape as many articles as you please. 
 

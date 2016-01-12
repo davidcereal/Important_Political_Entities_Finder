@@ -39,7 +39,7 @@ You are encouraged to use a python virtual environment using virtualenv and pip.
 * Whoosh - Whoosh is a fast, featureful full-text indexing and searching library implemented in pure Python.
 
 
-## 3. Specify Foreign Affairs login and password credentials in config.py 
+## 3. Specify Foreign Affairs login and password credentials 
 
 #### If you have a Foreign Affairs magazine subscription
 If you would have a subscription to Foreign Affairs magazine, you can put your username and password in the config.py file. 

@@ -9,7 +9,6 @@ import requests
 from selenium.webdriver.common.keys import Keys
 from selenium import webdriver
 
-
 from dateutil import parser
 import re
 

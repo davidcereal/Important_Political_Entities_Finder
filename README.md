@@ -1,6 +1,6 @@
 # Important Political Entities Finder Overview
 
-An app that allows users to seach for a topic in International Affairs in a specified date range and find out which political entities are most commonly associated with it. The corpus used is made up of articles scraped from the Foreign Affairs Magazine website. Check out the demo  <a href="http://107.23.92.220:5000" target="_blank">here</a>!
+An app that allows users to seach for a topic in International Affairs in a specified date range and find out which political entities are most commonly associated with it. The corpus used is made up of articles scraped from the Foreign Affairs Magazine website. Check out the live demo  <a href="http://107.23.92.220:5000" target="_blank">here</a>!
 
 
 ## 1. Clone the repository
@@ -39,7 +39,7 @@ You are encouraged to use a python virtual environment using virtualenv and pip.
 * Whoosh - Whoosh is a fast, featureful full-text indexing and searching library implemented in pure Python.
 
 
-## 3. Specify Foreign Affairs login and password credentials in config.py 
+## 3. Specify Foreign Affairs login and password credentials 
 
 #### If you have a Foreign Affairs magazine subscription
 If you would have a subscription to Foreign Affairs magazine, you can put your username and password in the config.py file. 

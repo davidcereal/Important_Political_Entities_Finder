@@ -44,6 +44,7 @@ You are encouraged to use a python virtual environment using virtualenv and pip.
 #### If you have a Foreign Affairs magazine subscription
 If you would have a subscription to Foreign Affairs magazine, you can put your username and password in the config.py file. 
 Doing so will allow you to scrape as many articles as you please. 
+Note: This assumes Foreign Affairs has kept the format of the relevant web-pages unchanged. 
 
 You can specify how many articles to scrape in the config.py file. The default is set to 100. 
 
